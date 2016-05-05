@@ -1,0 +1,20 @@
+[
+    {
+        "id": "imgOne", 
+		"title": "Boat One", 
+		"description": "One", 
+        "slideUrl": "img/imgOne.jpg"
+    }, 
+    {
+        "id": "imgTwo", 
+		"title": "Boat Two", 
+		"description": "Two", 
+        "slideUrl": "img/imgTwo.jpg"
+    }, 
+    {
+        "id": "imgThree", 
+		"title": "Boat Three", 
+		"description": "Three", 
+        "slideUrl": "img/imgThree.jpg"
+    }
+]
